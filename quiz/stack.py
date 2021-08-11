@@ -1,1 +1,1 @@
-for i in range(int(input())):print("*"*i)
+for i in range(int(input())+1):print("*"*i)
